@@ -266,9 +266,7 @@ GET /:code
 
 # Demo Video
 
-Add your Loom or YouTube video link here:
-
-https://your-demo-video-link
+https://drive.google.com/drive/folders/1PWu__ZLPszZFSM_cIAQGdV153VGKqiDx
 
 ---
 
